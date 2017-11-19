@@ -4,21 +4,21 @@ In this project, an operating system scheduler with round robin algorithm is imp
 
 Output.txt contains information about the ready queue and the track of time during the scheduling of processes. Until all processes are completed, scheduler works and outputs.
 
-Deliverable
+**Deliverable**
 
 C++ source code named CmpE322_P1_2012402015.cpp
 
-How to compile it?
+**How to compile it?**
 
 g++ CmpE322_P1_2012402015.cpp -o CmpE322_P1_2012402015 -std=c++11
 
-How to run it?
+**How to run it?**
 
 After making sure that you put definition file as “definition.txt” and codefiles as “x.code.txt”(x is a number) to the same directory with the source code, it is enough to run below command:
 
 ./CmpE322_P1_2012402015
 
-What to expect as output?
+**What to expect as output?**
 
 The scheduler creates a file called “output.txt” in the same directory. Its content will look like as below:
 
@@ -52,6 +52,6 @@ The scheduler creates a file called “output.txt” in the same directory. Its 
 
 1400::HEAD—TAIL
 
-To understand how the scheduler works, please check out the comments provided in the source code.
+**To understand how the scheduler works, please check out the comments provided in the source code.**
 
-For more info: mmervecerit@gmail.com
+**For more info: mmervecerit@gmail.com**
